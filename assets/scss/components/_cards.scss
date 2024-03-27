@@ -1,0 +1,15 @@
+.card{
+
+    &-body{
+        color: $dark;
+    }
+
+    &-text{
+        color: $dark;
+    }
+
+    &-footer span, i{
+        color: $dark;
+    }
+    
+}
